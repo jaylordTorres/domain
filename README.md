@@ -1,2 +1,0 @@
-# domain
-Created with CodeSandbox
